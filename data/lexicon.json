@@ -1,0 +1,16 @@
+{
+  "description": "User-customized and project-specific terms to bias speech recognition",
+  "terms": [
+    "S.H.A.M.U.",
+    "Disha",
+    "Gravitas",
+    "OpenClaw",
+    "OpenJarvis",
+    "PySide6",
+    "Ollama",
+    "Whisper",
+    "Piper",
+    "Pydantic",
+    "CTranslate2"
+  ]
+}
